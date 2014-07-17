@@ -1,4 +1,4 @@
 phpldapadmin
 ============
 
-PHP LDAP 管理界面
+PHP LDAP admin 管理界面
